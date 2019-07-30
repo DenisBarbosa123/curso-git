@@ -1,4 +1,5 @@
 Alderaan
 Coruscant
 Endor
-Tantoni
+Tantooine
+Hoth
