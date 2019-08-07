@@ -6,3 +6,5 @@ Master Yoda
 Chewbaka
 Han Solo
 Jabba the Hutt
+Rey
+Finn
